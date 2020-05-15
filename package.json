@@ -1,0 +1,36 @@
+{
+  "name": "nuxt-termo",
+  "version": "1.0.0",
+  "description": "Термоленты в Санкт-Петербурге",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/redirect-module": "^0.3.1",
+    "@nuxtjs/robots": "^2.4.2",
+    "@nuxtjs/sitemap": "^2.3.0",
+    "@nuxtjs/yandex-metrika": "^1.0.3",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.13.0",
+    "nuxt": "^2.0.0",
+    "nuxt-material-design-icons-iconfont": "^1.0.2",
+    "nuxt-trailingslash-module": "^1.1.0",
+    "vee-validate": "^3.3.0",
+    "vue-bootstrap-pagination": "^2.10.3",
+    "vuex-persist": "^2.2.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/axios": "^5.10.1",
+    "@nuxtjs/google-analytics": "^2.3.0",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "cookie-universal-nuxt": "^2.1.3",
+    "cross-env": "^7.0.2",
+    "intersection-observer": "^0.10.0",
+    "vuex": "^3.2.0"
+  }
+}
